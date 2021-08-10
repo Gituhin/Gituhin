@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on Backend development and ML Application deployments
-- 🌱 I’m currently learning Flask, SQL and Reinforcement Learning.
+- 🌱 I’m currently learning Flask, SQL, Reinforcement Learning, Flutter android dev.
 - 👯 I’m looking to collaborate on Backend Development using python and Model Deployments
 - 💬 Ask me about Rocket Science and Orbital physics
 - 📫 How to reach me: tuhinsubhrade069@gmail.com, www.tuhinsde.codes
