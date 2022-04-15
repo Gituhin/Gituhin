@@ -5,10 +5,10 @@
 -->
 
 - 🔭 I’m currently working on Backend development and ML Application deployments
-- 🌱 I’m currently learning Flask, SQL, Reinforcement Learning, Flutter android dev.
+- 🌱 I’m currently learning Finance and Artificial Intelligence.
 - 👯 I’m looking to collaborate on Backend Development using python and Model Deployments
 - 💬 Ask me about Rocket Science and Orbital physics
-- 📫 How to reach me: tuhinsubhrade069@gmail.com, www.tuhinsde.codes
+- 📫 How to reach me: tuhinsubhrade069@gmail.com, https://sites.google.com/view/tuhinsubhrade/home
 - 😄 Pronouns: I don't know what it means.
 - ⚡ Fun fact: 34% of 50 is same as 50% of 34.
 
