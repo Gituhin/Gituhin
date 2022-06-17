@@ -10,5 +10,5 @@
 - 💬 Ask me about Rocket Science and Orbital physics
 - 📫 How to reach me: tuhinsubhrade069@gmail.com, https://sites.google.com/view/tuhinsubhrade/home
 - 😄 Pronouns: I don't know what it means.
-- ⚡ Fun fact: 34% of 50 is same as 50% of 34.
+- ⚡ Fun fact: Oxygen is a poison which is actually slowly killing you.
 
