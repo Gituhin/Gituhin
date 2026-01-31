@@ -4,7 +4,7 @@
 **Gituhin/Gituhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on interpretable Transformer seq2seq.
+- 🔭 I’m currently working on interpretable machine learning.
 - ❤️ I'm interested in Statistical Analysis of Machine Algorithms and improvements.
 - 🌱 I’m currently learning almost everything.
 - 💬 Ask me about Rocket Science, Aviation and Adventure Sports.
